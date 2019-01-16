@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPI-app", "FPI-app\FPI-app.csproj", "{E8BD573D-5D3A-4138-9577-077B908AAC5C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED863E5A-410B-4D33-937B-D4163BD2A533}"
+	ProjectSection(SolutionItems) = preProject
+		foreclosure.json = foreclosure.json
+		FPI-app\geojson.json = FPI-app\geojson.json
+		FPI-app\Parcel2010.json = FPI-app\Parcel2010.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
